@@ -1,6 +1,7 @@
 <script lang="ts">
-    let catpath = '/src/lib/cat.jpg'
-    let discordpath = '/src/lib/discord.jpg'
+    let catpath = '/cat.png'
+    //let discordpath = 'src/lib/discord.jpg'
+    let discordpath = '/discord.png'
 </script>
 
 <div class="grid place-content-center w-screen h-screen text-white bg-black">

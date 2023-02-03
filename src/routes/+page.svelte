@@ -2,7 +2,6 @@
     <h1>My stuff</h1>
     <li>
         <u><a href="/stravabot">StravaBot</a></u>
-        <u><a href="/1600">1600 Website</a></u>
     </li>
 </div>
 
