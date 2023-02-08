@@ -1,14 +1,14 @@
 <script lang="ts">
     let catpath = '/cat.png'
     //let discordpath = 'src/lib/discord.jpg'
-    let discordpath = '/discord.png'
+    let discordpath = '/discord2.png'
 </script>
 
 <div class="grid place-content-center w-screen h-screen text-white bg-black">
-    <h1 class="">stravabot</h1>
+    <h1><a href="#text">stravabot</a></h1>
 </div>
 
-<div class="grid grid-cols-1 py-16 w-screen">
+<div id="text" class="grid grid-cols-1 py-16 w-screen">
     <h1 class="pb-16 text-2xl text-center">
         Do you enjoy? strava. Or do you just want to matisse your discord up a bit?
     </h1>
